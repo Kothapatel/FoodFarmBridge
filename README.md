@@ -1,4 +1,3 @@
-README for FoodFarmBridge
 FoodFarmBridge is a web application that connects farmers directly to consumers, creating a more efficient and sustainable food supply chain. It serves as a platform for farmers to list their products, and for consumers to discover and purchase fresh, locally-sourced produce.
 
 Features
